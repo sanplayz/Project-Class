@@ -5,6 +5,6 @@ public class Adactin {
 	LibGlobal g=new LibGlobal();
 	
 	public static void main(String[] args) {
-		
+		System.out.println("hello");
 	}
 }
